@@ -1,0 +1,26 @@
+_repo: The-Medieval-Latin-Hymn_54150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Messenger, Ruth Ellis
+    birthdate: 1884
+    deathdate: 1964
+    gutenberg_agent_id: '36236'
+    url: http://www.gutenberg.org/2009/agents/36236
+description: ''
+gutenberg_issued: '2017-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54150'
+  lccn: '53000859'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sequences (Liturgy)'
+- !lcsh 'Hymns, Latin -- History and criticism'
+- !lcc 'BV'
+- GITenberg
+title: The Medieval Latin Hymn
+url: http://www.gutenberg.org/ebooks/54150
